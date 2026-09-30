@@ -10,7 +10,6 @@ import java.util.List;
 
 public class CommonStepdefs extends CommonPage {
 
-
     @Given("I go to url {string}")
     public static void iGoToUrl(String url) {
         getUrl(url);
