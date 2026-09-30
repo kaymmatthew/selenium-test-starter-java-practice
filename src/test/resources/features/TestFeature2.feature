@@ -16,6 +16,3 @@ Feature: A user validates company details are correct
       | Company status  | Active                 |
       | Company type    | Public limited Company |
       | Incorporated on | 29 December 1951       |
-
-
-

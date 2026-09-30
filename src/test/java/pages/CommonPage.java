@@ -10,5 +10,4 @@ public class CommonPage extends Driver {
     public static void getUrl(final String url) {
         driver.navigate().to(url);
     }
-
 }
